@@ -122,8 +122,3 @@ require('line-reader').eachLine 'bowlarama.txt', (line, last) ->
 
 
 
-
-
-
-
-
